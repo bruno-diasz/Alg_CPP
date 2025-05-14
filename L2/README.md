@@ -9,6 +9,7 @@ FUNÇÃO soma_elementos(lista):
         total ← total + lista[i] 
     RETORNE total 
 ```
+
   
 **2. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
