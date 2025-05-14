@@ -9,7 +9,7 @@ FUNÇÃO soma_elementos(lista):
         total ← total + lista[i] 
     RETORNE total 
 ```
-**R:** O codigo acima mostra um função que percorre uma "lista[n]" e soma todos os seus indíces e salva na variavel "total", sendo assim a complexidade temporal total é = O(N) que é complexidade linear e a complexidade espacial é = O(1) constante
+* **R:** O codigo acima mostra um função que percorre uma "lista[n]" e soma todos os seus indíces e salva na variavel "total", sendo assim a complexidade temporal total é = O(N) que é complexidade linear e a complexidade espacial é = O(1) constante
 
 
   
