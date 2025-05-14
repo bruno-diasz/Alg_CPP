@@ -2,12 +2,13 @@
 
 **1. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**<br>
 
-FUNÇÃO soma_elementos(lista): <br>
-    total ← 0 <br>
-    PARA i DE 0 ATÉ TAMANHO(lista) - 1 FAÇA: <br>
-        total ← total + lista[i] <br>
-    RETORNE total <br>
-
+```
+FUNÇÃO soma_elementos(lista):
+    total ← 0 
+    PARA i DE 0 ATÉ TAMANHO(lista) - 1 FAÇA:
+        total ← total + lista[i] 
+    RETORNE total 
+```
     
 **2. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**<br>
 
