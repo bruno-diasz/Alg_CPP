@@ -1,5 +1,5 @@
 # Lista 02 - Complexidade
-
+### Aluno: Bruno Dias
 **1. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
 ```
