@@ -23,7 +23,7 @@ FUNÇÃO verificar_duplicatas(lista):
                 RETORNE VERDADEIRO 
     RETORNE FALSO ()
 ```
-**R:**
++ **R:**
 
 **3. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
@@ -34,7 +34,7 @@ FUNÇÃO fibonacci(n):
     SENÃO: 
         RETORNE fibonacci(n - 1) + fibonacci(n - 2) 
 ```
-**R:**
+- **R:**
 
 **4. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
