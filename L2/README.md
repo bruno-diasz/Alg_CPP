@@ -9,6 +9,7 @@ FUNÇÃO soma_elementos(lista):
         total ← total + lista[i] 
     RETORNE total 
 ```
+**R:** O codigo acima mostra um função que percorre uma "lista[n]" e soma todos os seus indíces e salva na variavel "total", sendo assim a complexidade temporal total é = O(N) que é complexidade linear e a complexidade espacial é = O(1) constante
 
 
   
@@ -22,7 +23,8 @@ FUNÇÃO verificar_duplicatas(lista):
                 RETORNE VERDADEIRO 
     RETORNE FALSO ()
 ```
-    
+**R:**
+
 **3. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
 ```
@@ -32,7 +34,8 @@ FUNÇÃO fibonacci(n):
     SENÃO: 
         RETORNE fibonacci(n - 1) + fibonacci(n - 2) 
 ```
-        
+**R:**
+
 **4. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
 ```
@@ -42,7 +45,8 @@ FUNÇÃO inverter_lista(lista):
         invertida.ADICIONAR(lista[i]) 
     RETORNE invertida 
 ```
-    
+**R:**
+
 **5. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
 ```
@@ -55,7 +59,7 @@ FUNÇÃO potencia(x, n):
     SENÃO: 
         RETORNE x * potencia(x, n - 1) 
 ```
-        
+**R:**    
 **6. Implemente todos os códigos em C++ em um único script e peça para que o usário 
 escolha uma dessas funções para que ele execute. Qual é a mais demorada e qual é a mais 
 rápida?**
