@@ -10,6 +10,7 @@ FUNÇÃO soma_elementos(lista):
     RETORNE total 
 ```
 
+
   
 **2. Explique o código e informe qual a complexidade temporal e espacial do código abaixo?**
 
