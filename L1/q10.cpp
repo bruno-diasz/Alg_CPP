@@ -4,6 +4,7 @@ using namespace std;
 
 
 int main (){
+    
     float valorGasolina,kmMes,kmPorLitro,valorOleo,valorSeguro,valorIPVA,valorConcerto,outros;
 
     cout << "Digite o preço da gasolina: ";
