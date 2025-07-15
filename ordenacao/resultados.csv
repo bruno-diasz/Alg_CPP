@@ -1,0 +1,11 @@
+tamanho;algoritmo;tempo_em_segundos
+10000;Selection Sort;0.136605
+10000;Quick Sort;0.00135688
+50000;Selection Sort;4.04204
+50000;Quick Sort;0.00815988
+100000;Selection Sort;14.7455
+100000;Quick Sort;0.0168675
+500000;Selection Sort;435.853
+500000;Quick Sort;0.0942452
+1000000;Selection Sort;1812.66
+1000000;Quick Sort;0.198344
